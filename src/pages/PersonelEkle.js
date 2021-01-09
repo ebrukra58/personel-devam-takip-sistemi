@@ -18,6 +18,7 @@ class PersonelEkle extends React.Component{
               <li className="breadcrumb-item"><a href="#">Home</a></li>
               <li className="breadcrumb-item active">Personel Ekle</li>
             </ol>
+
           </div>
         </div>
       </div>{/* <!-- /.container-fluid --> */}
@@ -27,7 +28,7 @@ class PersonelEkle extends React.Component{
     <section className="content">
       <div className="container-fluid">
         
-          hello
+      
        
         
         
